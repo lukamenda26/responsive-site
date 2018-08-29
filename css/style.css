@@ -121,6 +121,9 @@ main {
     font-weight: bold; }
 
 @media (max-width: 768px) {
+  header {
+    height: 250px; }
+
   main .container {
     display: block; }
   main .tour-box {
